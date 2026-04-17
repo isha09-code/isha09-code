@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🔭 I'm currently studying about new technologies<br>• 👯 I'm looking to build unique projects that will make life easier<br>• 🤝 I'm searching for collaboration and mentorship<br>• 🌱 I'm currently learning AI/ML, Agentic AI & many more to build autonomous systems<br>• 💬 Ask me about Full-stack development, AI integrations, or content creations.
+• 🔭 I'm currently studying about new technologies<br>• 👯 I'm looking to build unique projects that will make life more easier<br>• 🤝 I'm searching for collaboration and mentorship<br>• 🌱 I'm currently learning AI/ML, Agentic AI & many more to build autonomous systems<br>• 💬 Ask me about Full-stack development, AI integrations, or content creations.
 
 
 ## 🌐 Socials:
