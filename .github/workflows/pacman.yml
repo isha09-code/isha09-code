@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate pacman contribution graph
-        uses: YourCat-Lab/pacman-contribution-graph@main
+      - name: Generate pacman svg
+        uses: huantt/pacman-contribution-graph@v1.0.0
         with:
           github-username: isha09-code
           token: ${{ secrets.GITHUB_TOKEN }}
