@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">I'm from Kolkata,India<br><br>- 🔭 I’m working as a Full-Stack Developer<br>- 🤝 Open to collaborations, mentorships & open-source contributions<br>- ⚡ In my free time i used to do freelancing <br>-💡 I love turning complex ideas into clean, working products<br>- 💬 Ask me about Full-stack development, AI integrations, or content creations.</h4>
+<h4 align="left">I'm from Kolkata,India<br><br>- 🔭 I’m working as a Full-Stack Developer<br>-💡 I love turning complex ideas into clean, working products<br>- ⚡ In my free time i used to do freelancing <br>- 💬 Ask me about Full-stack development, AI integrations, or content creations<br>- 🤝 Open to collaborations, mentorships & open-source contributions.</h4>
 
 ###
 
