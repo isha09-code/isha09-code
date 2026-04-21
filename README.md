@@ -107,15 +107,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=isha09-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isha09-code/isha09-code/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isha09-code/isha09-code/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isha09-code/isha09-code/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
