@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isha09-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="270" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isha09-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="163" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=isha09-code&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=isha09-code&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&timezone=Asia%2FKolkata" height="220" alt="streak graph"  />
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isha09-code&theme=react-dark&hide_border=true" width="800"/>
 </p>
