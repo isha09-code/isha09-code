@@ -99,9 +99,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isha09-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="270" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isha09-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="163" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=isha09-code&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isha09-code&theme=react-dark&hide_border=true" width="800"/>
+</p>
 </div>
 
 ###
+---
 
 ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isha09-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -113,8 +117,11 @@
 
 <br clear="both">
 
+
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=127&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
+
